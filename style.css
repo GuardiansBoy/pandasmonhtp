@@ -35,7 +35,7 @@ nav {
 }
 
 .nav-content img {
-    width: 40px;
+    width: 100px;
 }
 
 h1 { 
@@ -316,4 +316,16 @@ h1 {
     width: 600px;
     height: 600px !important;
     animation: updown 4s linear infinite;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.nav-links img {
+    width: 60px;
 }
