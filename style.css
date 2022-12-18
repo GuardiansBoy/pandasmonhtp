@@ -329,3 +329,26 @@ h1 {
 .nav-links img {
     width: 60px;
 }
+
+.faqanswer {
+	display: none;
+	width: 590px;
+	background: #e5e5e5;
+	padding: 12px 20px 0 30px;	
+}
+
+.answer{
+    transition: all 0.3s ease-in;
+}
+
+.answer .active {
+    font-weight: bold;
+}
+
+.faq-questions {
+    max-width: 400px;
+}
+
+/* .answer {
+    /* display: none;
+} */ 
